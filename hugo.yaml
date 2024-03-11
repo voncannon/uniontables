@@ -61,8 +61,8 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Custom Tables
-    subtitle: ""
+    title: Union Tables
+    subtitle: "Custom Made. Unmatched Quality."
     #imageUrl: "<img location>"
     #imageWidth: 120
     #imageHeight: 120
