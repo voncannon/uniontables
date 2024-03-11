@@ -2,4 +2,6 @@ module github.com/voncannon/uniontables
 
 go 1.22.0
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20231122160523-91df000ca827 // indirect
+require (
+	github.com/adityatelange/hugo-PaperMod v0.0.0-20240310073033-f5c737f872ae // indirect
+)
