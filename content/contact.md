@@ -6,4 +6,5 @@ title: 'Contact Us'
 
 Cody Rominger
 
-704-579-1502
+[704-579-1502](tel:704-579-1502)
+
