@@ -1,6 +1,0 @@
-baseURL = 'https://www.uniontables.com/'
-languageCode = 'en-us'
-title = 'Union Tables'
-[module]
-  [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
