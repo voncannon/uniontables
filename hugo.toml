@@ -1,4 +1,4 @@
 baseURL = 'https://www.uniontables.com/'
 languageCode = 'en-us'
 title = 'Union Tables'
-theme = 'ananke'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
