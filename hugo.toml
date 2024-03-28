@@ -10,7 +10,7 @@ title = "Union Tables"
 [params]
   defaultTheme = "dark"
   description = "Union Table Company"
-  title = "Table Gallery"
+  title = "Union Table Company"
   [params.author]
     email = ""
     name = "Cody Rominger"
