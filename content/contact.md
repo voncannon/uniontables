@@ -4,7 +4,7 @@ rss_ignore: true
 title: Contact
 menu:
   main:
-    weight: 90
+    weight: 10
 ---
 
 

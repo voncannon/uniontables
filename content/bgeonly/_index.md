@@ -3,8 +3,6 @@ date: 2024-03-28
 featured_image: bgeonly/cabinet/IMG_0955.jpeg
 title: BGE Tables
 description: Dimensions of all tables can be customized to fit your space.
-weight: 1
-menu: main
 ---
 
 
