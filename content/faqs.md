@@ -7,32 +7,34 @@ menu:
     weight: 5
 ---
 
+
 ### Q: Will these tables fit my grills?
-A: We can custom make all tables to fit most grills.
+* We can custom make all tables to fit most grills.
 
 ### Q: What is the standard size of each table?
-A: The BGE only table 5' wide by 34" deep by 34" tall. The BGE Blackstone combo table is 8' wide by 34" deep and 34" tall. 
+* The BGE only table 5' wide x 34" deep x 34" tall
+* The BGE Blackstone combo table is 8' wide x 34" deep x 34" tall
 
 ### Q: Can I customize the dimensions of the table?
-A: We can custom make the table to fit your available space as long as the table will still accommodate the grill size.
+* We can custom make the table to fit your available space as long as the table will still accommodate the grill size.
 
 ### Q: Can you deliver?
-A: Yes, I can deliver to Charlotte, Raleigh, Atlanta, Columbia, and any reasonable distance from Charlotte, N.C.
+* Yes, I can deliver to Charlotte, Raleigh, Atlanta, Columbia, and any reasonable distance from Charlotte, North Carolina.
 
 ### Q: Can I pick my table up at your shop?
-A: Yes, pickup at the shop is free.
+* Yes, pickup at the shop is free.
 
 ### Q: How does pricing work?
-A: Pricing is based on table size and features. Example: 1 cabinet, 2 cabinets, casters, etc.
+* Pricing is based on table size and features; Example: 1 cabinet, 2 cabinets, casters, etc.
 
 ### Q: How do I get a quote?
-A: Send an email or text message to the [contact information](/contact).
+* [Please email or text message us](/contact).
 
 ### Q: What's the turn around time for a custom table?
-A: Usually 10-14 days depending on features of the table.
+* Usually 10-14 days depending on features of the table.
 
 ### Q: Can this table work if I get a different size grill?
-A: Yes, if requested prior to building the table.
+* Yes, if requested prior to building the table.
 
-### Q: How can I look at and leave a review?
-A: Leave a review on our [Facebook Marketplace page](https://www.facebook.com/marketplace/profile/1190994476/?ref=permalink&mibextid=6ojiHh).
+### Q: How can I look at and / or leave a review?
+* Our reviews can be found on our [Facebook Marketplace Page](https://www.facebook.com/marketplace/profile/1190994476/?ref=permalink&mibextid=6ojiHh).
