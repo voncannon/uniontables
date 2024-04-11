@@ -4,7 +4,7 @@ layout: page
 rss_ignore: true
 menu:
   main:
-    weight: 80
+    weight: 5
 ---
 
 ### Q: Will these tables fit my grills?
@@ -14,16 +14,16 @@ A: We can custom make all tables to fit most grills.
 A: The BGE only table 5' wide by 34" deep by 34" tall. The BGE Blackstone combo table is 8' wide by 34" deep and 34" tall. 
 
 ### Q: Can I customize the dimensions of the table?
-A: We can custom make the table to fit your available space as long as the table will still accomidate the grill size.
+A: We can custom make the table to fit your available space as long as the table will still accommodate the grill size.
 
 ### Q: Can you deliver?
-A: Yes, I can deliver to Charlotte, Raleigh, Atlanta, Columbia, and any resonable distance from Charlotte, N.C.
+A: Yes, I can deliver to Charlotte, Raleigh, Atlanta, Columbia, and any reasonable distance from Charlotte, N.C.
 
 ### Q: Can I pick my table up at your shop?
 A: Yes, pickup at the shop is free.
 
 ### Q: How does pricing work?
-A: Pricing is based on table size and features. Example: 1 cabinate, 2 cabinates, casters, etc.
+A: Pricing is based on table size and features. Example: 1 cabinet, 2 cabinets, casters, etc.
 
 ### Q: How do I get a quote?
 A: Send an email or text message to the [contact information](/contact).

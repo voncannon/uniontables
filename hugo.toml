@@ -15,12 +15,12 @@ title = "Union Tables"
     email = "uniontables@gmail.com"
     name = "Cody Rominger"
   [params.socialIcons]
+    email = "mailto:uniontables@gmail.com"
     facebook = "https://www.facebook.com/marketplace/profile/1190994476/?ref=permalink&mibextid=6ojiHh"
+    #website = "https://uniontables.com"
     #instagram = "https://www.instagram.com/"
     #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
     #youtube = "https://www.youtube.com/"
-    #email = "mailto:user@example.com"
-    #website = "https://example.com"
     #mastodon = "https://example.com"
     #pixelfed = "https://example.com"
 
@@ -48,8 +48,6 @@ title = "Union Tables"
 #     name = "Facebook"
 #     url = "https://www.facebook.com/marketplace/profile/1190994476/?ref=permalink&mibextid=6ojiHh"
 #     weight = 1
-
-
 
 [services]
   [services.rss]
