@@ -44,11 +44,15 @@ googleAnalytics = "G-RTKCDK45XW"
   [[module.imports]]
     path = "github.com/nicokaiser/hugo-theme-gallery/v4"
 
-# [menu]
-#   [[menu.footer]]
-#     name = "Facebook"
-#     url = "https://www.facebook.com/marketplace/profile/1190994476/?ref=permalink&mibextid=6ojiHh"
-#     weight = 1
+[menu]
+  [[menu.footer]]
+    name = "FAQs"
+    url = "/faqs"
+    weight = 1
+  [[menu.footer]]
+    name = "Contact Us"
+    url = "/contact"
+    weight = 2
 
 [services]
   [services.rss]
