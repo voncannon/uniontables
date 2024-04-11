@@ -3,7 +3,7 @@ Hugo Theme: https://github.com/nicokaiser/hugo-theme-gallery
 
 
 1. Fix the featured photo
-1. Copy descriptions to each category: description: Dimensions of all tables can be customized to fit your space.
+1. Copy descriptions to each category: description: 
 1. Sub categories for cabinet and no cabinet 
 1. Make sure GA is working
 
