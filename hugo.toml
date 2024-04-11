@@ -46,13 +46,17 @@ googleAnalytics = "G-RTKCDK45XW"
 
 [menu]
   [[menu.footer]]
+    name = "Home"
+    url = "/"
+    weight = 5
+  [[menu.footer]]
     name = "FAQs"
     url = "/faqs"
-    weight = 1
+    weight = 10
   [[menu.footer]]
     name = "Contact Us"
     url = "/contact"
-    weight = 2
+    weight = 15
 
 [services]
   [services.rss]
