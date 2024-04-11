@@ -6,6 +6,7 @@ languageCode = "en"
 timeZone = "America/New_York"
 timeout = "120s"
 title = "Union Tables"
+googleAnalytics = "G-RTKCDK45XW"
 
 [params]
   defaultTheme = "dark"
