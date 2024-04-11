@@ -1,0 +1,7 @@
+---
+date: 2024-03-28
+#featured_image: union-table-company-00.jpg
+title: Pellet Smoker Tables
+description: Pellet Smoker Tables
+---
+

@@ -12,10 +12,10 @@ title = "Union Tables"
   description = "Union Table Company"
   title = "Union Table Company"
   [params.author]
-    email = ""
+    email = "uniontables@gmail.com"
     name = "Cody Rominger"
   [params.socialIcons]
-    #facebook = "https://www.facebook.com/"
+    facebook = "https://www.facebook.com/marketplace/profile/1190994476/?ref=permalink&mibextid=6ojiHh"
     #instagram = "https://www.instagram.com/"
     #github = "https://github.com/nicokaiser/hugo-theme-gallery/"
     #youtube = "https://www.youtube.com/"
@@ -45,9 +45,11 @@ title = "Union Tables"
 
 # [menu]
 #   [[menu.footer]]
-#     name = "GitHub"
-#     url = "https://github.com/nicokaiser/hugo-theme-gallery/"
-#     weight = 3
+#     name = "Facebook"
+#     url = "https://www.facebook.com/marketplace/profile/1190994476/?ref=permalink&mibextid=6ojiHh"
+#     weight = 1
+
+
 
 [services]
   [services.rss]
