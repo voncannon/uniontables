@@ -16,7 +16,3 @@ BGE Only Table
 BGE / Blackstone Combo
  * Cabinets
  * No Cabinets
-
-
-
-Google analystics ID: G-RTKCDK45XW
