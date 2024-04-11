@@ -1,6 +1,6 @@
 ---
 date: 2024-03-28
 featured_image: union-table-company-00.jpg
-title: BGE Tables No Cabinets
+title: BGE Tables With No Cabinets
 description: Dimensions of all tables can be customized to fit your space.
 ---
